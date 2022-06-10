@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07bdaea5-c8d9-4643-bc4c-2abc0070f7f6": {
+      "ProjectGuid": "07bdaea5-c8d9-4643-bc4c-2abc0070f7f6",
+      "DisplayName": "Financiera.Core",
+      "ColorIndex": 0
+    },
+    "2e557dec-c972-4219-8c88-62bcbc913817": {
+      "ProjectGuid": "2e557dec-c972-4219-8c88-62bcbc913817",
+      "DisplayName": "Financiera.Data",
+      "ColorIndex": 1
+    },
+    "15d9046d-02d9-41ef-9f6f-d7ca4fcf650e": {
+      "ProjectGuid": "15d9046d-02d9-41ef-9f6f-d7ca4fcf650e",
+      "DisplayName": "Financiera.AppWeb",
+      "ColorIndex": 2
+    },
+    "04d94eda-2eba-4c14-a39d-ec738dd5792c": {
+      "ProjectGuid": "04d94eda-2eba-4c14-a39d-ec738dd5792c",
+      "DisplayName": "Tienda.Logic",
+      "ColorIndex": 3
+    },
+    "79d64ac7-550f-4ec2-8650-bd601886e4b2": {
+      "ProjectGuid": "79d64ac7-550f-4ec2-8650-bd601886e4b2",
+      "DisplayName": "Tienda.AppWeb",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
